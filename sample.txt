@@ -1,1 +1,1 @@
-welcome to AI Agents Internship.
+Welcome to AI Agents Internship.Today we are goint to see the basics.
